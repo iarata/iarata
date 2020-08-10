@@ -7,8 +7,8 @@
 - 🏢 I'm currently working on **iOS & Python Applications**
 - ⚙️ I use daily: `.py`, `.swift`, `.js`, `.html`, `.css`, `.psd`
 - 🌍 I'm mostly active within the **iOS & Python Community**
-- 💅 Designed: Personal Hygiene, [Personal Hygiene](https://www.northmeetssouth.audio)
+- 💅 Designed: [Personal Hygiene](https://www.northmeetssouth.audio)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **iOS app**, **python**, **development**, **design thinking**
-- 📫 Reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/arataeb?label=Follow&style=social)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 📫 Reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/arataeb?label=Follow&style=social)
