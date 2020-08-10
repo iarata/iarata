@@ -7,7 +7,7 @@
 - 🏢 I'm currently working on **iOS & Python Applications**
 - ⚙️ I use daily: `.py`, `.swift`, `.js`, `.html`, `.css`, `.psd`
 - 🌍 I'm mostly active within the **iOS & Python Community**
-- 💅 Designed: [Personal Hygiene](https://www.northmeetssouth.audio)
+- 👨‍💻 Made: [Personal Hygiene](https://apps.apple.com/us/app/personal-hygiene/id1526429483)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **iOS app**, **python**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
