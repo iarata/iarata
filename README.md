@@ -11,4 +11,4 @@
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **iOS app**, **python**, **development**, **design thinking**
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
-- 📫 Reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/arataeb?label=Follow&style=social)](https://gloogll.com)
+- 📫 Reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/arataeb?label=Follow&style=social)](https://twitter.com/arataeb)
