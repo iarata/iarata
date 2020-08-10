@@ -10,5 +10,5 @@
 - 💅 Designed: Personal Hygiene, [Personal Hygiene](https://www.northmeetssouth.audio)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **iOS app**, **python**, **development**, **design thinking**
-- 📫 Reach me: [](https://img.shields.io/twitter/follow/arataeb?label=Follow&style=social)
+- 📫 Reach me: ![Twitter Follow](https://img.shields.io/twitter/follow/arataeb?label=Follow&style=social)
 - ⚡️ Fun fact: I'm a huge fan of Harry Potter
