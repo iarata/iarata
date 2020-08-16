@@ -10,5 +10,5 @@
 - 👨‍💻 Made: [Personal Hygiene](https://apps.apple.com/us/app/personal-hygiene/id1526429483)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **iOS app**, **python**, **development**, **design thinking**
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 🎧 Fun fact: I'm a huge fan of Awich
 - 📫 Reach me: [![Twitter Follow](https://img.shields.io/twitter/follow/arataeb?label=Follow&style=social)](https://twitter.com/arataeb)
