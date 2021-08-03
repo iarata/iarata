@@ -7,7 +7,7 @@
 - 🏢 I'm currently working on **iOS & Python Applications**
 - ⚙️ I use daily: `.py`, `.swift`, `.js`, `.html`, `.css`, `.psd`
 - 🌍 I'm mostly active within the **iOS & Python Community**
-- 👨‍💻 Made: [Personal Hygiene](https://apps.apple.com/us/app/personal-hygiene/id1526429483)
+- 👨‍💻 Made: [Personal Hygiene](https://apps.apple.com/us/app/personal-hygiene/id1526429483) and [DSP Playground](https://uce.jp/dsp)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **iOS app**, **python**, **development**, **design thinking**
 - 🎧 Fun fact: I'm a huge fan of Awich
