@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
-
 #### I'm a Full-Stack & iOS Developer.
 
 - 🏢 I'm currently working on **iOS & Python Applications**
