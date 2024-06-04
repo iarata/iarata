@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Undergrad Researcher at eSociety Lab, Ritsumeikan University
+#### Master Researcher at eSociety Lab, Ritsumeikan University
 
 - 🏢 Currently working on **iOS applications and Meta-Learning**
 - 🌍 Active within the **iOS & AI Communities**
